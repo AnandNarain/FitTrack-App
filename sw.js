@@ -2,7 +2,7 @@
 // Caches everything for full offline use
 // Bump CACHE version to force update on next deploy
 
-const CACHE = 'fittrack-v5';
+const CACHE = 'fittrack-v6';
 const CORE = ['./','./index.html'];
 
 // Install — cache core assets
